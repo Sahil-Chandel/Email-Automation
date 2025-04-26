@@ -12,7 +12,7 @@ YOUR_PASSWORD = 'pcwxeyrmyrcbfffu'  # App password, keep safe
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 465  # SSL Port
 
-EEMAIL_SUBJECT = 'Exploring AI/ML and GenAI Opportunities'
+EMAIL_SUBJECT = 'Exploring AI/ML, GenAI Opportunities'
 
 EMAIL_BODY = """
 Hi,
